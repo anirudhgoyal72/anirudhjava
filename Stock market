@@ -1,0 +1,27 @@
+I)Company:-
+   1) company details
+   2)Ipos
+   3)Stock details 
+   
+II)Users:-
+  1)Login page
+  2)Checking some companies with its details
+  3)Comparisions options
+  
+  
+ CRUD OPERATIONS USED IN ABOVE BOTH OF THESE
+ 
+ 
+ Databse with the help of mysql
+ 
+ 1)Tables
+ 2)Charts
+ 3)Data of different companies
+ 
+ 
+ Angular js for all the front end
+ Spring boot for rest controller and entitiy
+ MYSQL nd JPA for database
+ 
+
+	
